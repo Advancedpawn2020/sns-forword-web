@@ -1,4 +1,4 @@
-# tensquareforward
+# sns
 
 > Nuxt.js project
 
